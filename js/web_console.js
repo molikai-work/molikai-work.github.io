@@ -27,7 +27,7 @@ minutes = String(minutes).padStart(2, "0");
 // 获取当前日期
 const currentDate = new Date();
 
-// 计算时间差（以毫秒为单位）
+// 计算时间差
 const timeDiff = currentDate.getTime() - startDate.getTime();
 
 // 将时间差转换为天数
@@ -44,7 +44,7 @@ __ _  ___  / (_) /_____ _(_)      _    _____  ____/ /__
 %c${year}%c年%c${month}%c月%c${day}%c日%c ${meridiem}%c ${hours}%c:%c${minutes}
 
 %c网站运行时间起始于%c 2024-04-18
-%cmolikai%c 的主页，已经运行了 %c${daysDiff}%c 天。%c
+%c墨离%c 的主页，已经运行了 %c${daysDiff}%c 天。%c
 
 ` + `
 Copyright 2023-Presen %cmolikai.%c All rights reserved.
