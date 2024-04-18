@@ -29,7 +29,7 @@
 
 body,
 html {
-    font-family: Microsoft YaHei;
+    font-family: "LXGWZhenKai", sans-serif;
     -webkit-font-smoothing: antialiased;
     color: #fff;
     line-height: 1.5;
@@ -37,6 +37,12 @@ html {
     background-color: #212121;
     font-size: 18px;
     overflow-x: hidden
+}
+
+@font-face {
+    font-family: LXGWZhenKai;
+    src: url(/fonts/LXGWZhenKai.woff2);
+    font-display: swap;
 }
 
 a {

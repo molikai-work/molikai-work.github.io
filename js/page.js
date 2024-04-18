@@ -23,7 +23,7 @@ parcelRequire = function (e, r, t, n) { var i, o = "function" == typeof parcelRe
             `<a href="https://bugs.mojang.com/browse/MC-9595" rel="nofollow noreferrer" target="_blank">[刻意的游戏设计]</a>`,
             "Cloudflare 大善人！",
             "GitHub 存储库很好！",
-            "醒不来的梦，<br>再温暖也不能信……",
+            "醒不來的夢，<br>再溫暖也不能信...",
             "樹欲靜，風不停;<br>事與願，難相應",
             "方死方生，方死方生",
             "方可方不可，<br>方不可方可",
