@@ -48,7 +48,7 @@ __ _  ___  / (_) /_____ _(_)      _    _____  ____/ /__
 
 ` + `
 Copyright 2023-Presen %cmolikai.%c All rights reserved.
-由 %c[不知道]%c 的产品提供，二次修改在 %cmolikai-work/molikai.github.io%c，%cGitHub%c 提供计算服务。
+由 %c[不知道]%c 的产品提供，二次修改在 %cmolikai-work/molikai.github.io%c，%cCloudflare%c 提供计算服务。
 
 `
 , 'color: lightcyan;', 
