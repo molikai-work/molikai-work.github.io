@@ -200,7 +200,7 @@ nav a.clip {
 
 nav a {
     display: inline-block;
-    font-size: 13px;
+    font-size: 14px;
     color: #fff;
     text-decoration: none;
     margin: 0 10px;
@@ -403,7 +403,7 @@ img.avatar:hover {
     display: inline-block;
     width: 26%;
     margin-right: 3%;
-    font-size: 12px
+    font-size: 14px
 }
 
 .about ul.skill li .progress {
@@ -615,7 +615,7 @@ ul.skill li .progress div {
 }
 
 .footer p {
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 1em;
     opacity: .3
 }
@@ -637,7 +637,7 @@ ul.skill li .progress div {
     display: inline-block;
     background-color: hsla(0, 0%, 100%, .3);
     border-radius: 10px 10px 10px 0;
-    font-size: 12px;
+    font-size: 14px;
     padding: 0 10px;
     margin-right: 10px;
     cursor: pointer;
@@ -770,7 +770,7 @@ ul.skill li .progress div {
     nav {
         padding: 15px 5%;
         overflow: auto;
-        font-size: 13px;
+        font-size: 16px;
         left: 0;
         top: inherit;
         bottom: 0;
