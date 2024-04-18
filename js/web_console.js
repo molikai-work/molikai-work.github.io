@@ -34,7 +34,8 @@ const timeDiff = currentDate.getTime() - startDate.getTime();
 const daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
 
 // 打印控制台输出
-console.log('%c' + `              ___ __        _                        __  
+console.log('%c' + `
+            ___ __        _                        __  
 __ _  ___  / (_) /_____ _(_)      _    _____  ____/ /__
 /  ' \\/ _ \\/ / /  '_/ _ '/ / _    | |/|/ / _ \\/ __/  '_/
 /_/_/_/\\___/_/_/_/\\_\\_,_/_/ (_)   |__,__/\\___/_/ /_/\\_\\ 
