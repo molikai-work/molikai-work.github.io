@@ -403,7 +403,7 @@ img.avatar:hover {
     display: inline-block;
     width: 26%;
     margin-right: 3%;
-    font-size: 14px
+    font-size: 16px
 }
 
 .about ul.skill li .progress {
@@ -415,7 +415,7 @@ img.avatar:hover {
 }
 
 .about ul.skill li .progress span {
-    font-size: 12px;
+    font-size: 14px;
     color: hsla(0, 0%, 100%, .4);
     opacity: 0;
     position: relative;
@@ -805,7 +805,7 @@ ul.skill li .progress div {
     .hello h1,
     .hello h2 {
         font-weight: 400;
-        font-size: 14px
+        font-size: 16px
     }
 
     .hello .circle {
@@ -819,7 +819,7 @@ ul.skill li .progress div {
     }
 
     .hello h1 {
-        font-size: 26px
+        font-size: 28px
     }
 
     .about .introduct img.avatar {
