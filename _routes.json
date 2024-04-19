@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "description": "Manually created in molikai-work",
+    "include": [
+        "/*"
+    ],
+    "exclude": [
+        "/CNAME",
+        "/robots.txt",
+        "/sitemap.xml",
+        "/BingSiteAuth.xml",
+        "/README.md"
+    ]
+}

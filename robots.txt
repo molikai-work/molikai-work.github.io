@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Sitemap: https://molikai.work/sitemap.xml
+Disallow: /images/
+Disallow: /cdn-cgi/
