@@ -29,7 +29,7 @@
 
 body,
 html {
-    font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+    font-family: "Noto Sans SC", sans-serif;
     -webkit-font-smoothing: antialiased;
     color: #fff;
     line-height: 1.5;
