@@ -29,7 +29,7 @@
 
 body,
 html {
-    font-family: "LXGWZhenKai", sans-serif;
+    font-family: sans-serif;
     -webkit-font-smoothing: antialiased;
     color: #fff;
     line-height: 1.5;
@@ -41,7 +41,7 @@ html {
 
 @font-face {
     font-family: LXGWZhenKai;
-    src: url(/fonts/LXGWZhenKai.woff2);
+    src: url(/fonts/LXGWZhenKai-crop.woff2);
     font-display: swap;
 }
 
@@ -318,6 +318,7 @@ nav a:hover {
 }
 
 .hello {
+    font-family: "LXGWZhenKai", sans-serif;
     position: absolute;
     bottom: 20%;
     left: 0
