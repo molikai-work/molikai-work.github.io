@@ -29,7 +29,7 @@
 
 body,
 html {
-    font-family: "Noto Sans SC", sans-serif;
+    font-family: "Microsoft YaHei", sans-serif;
     -webkit-font-smoothing: antialiased;
     color: #fff;
     line-height: 1.5;
@@ -39,29 +39,12 @@ html {
     overflow-x: hidden
 }
 
-/* fonts.google.com */
-.noto-sans-regular {
-    font-family: "Noto Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
-}
-
-.noto-sans-tc-regular {
-  font-family: "Noto Sans TC", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-
 .noto-sans-sc-regular {
     font-family: "Noto Sans SC", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
 }
-/* End fonts.google.com */
 
 @font-face {
     font-family: "LXGWZhenKai-crop-.hello";
