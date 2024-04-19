@@ -44,10 +44,10 @@ html {
 <weight>: Use a value from 100 to 900
 */
 
-.noto-sans-tc-regular {
+.noto-sans-tc-fonts {
   font-family: "Noto Sans TC", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
