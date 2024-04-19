@@ -45,8 +45,7 @@ html {
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
+    font-variation-settings: "wdth" 100;
 }
 
 .noto-sans-tc-regular {
@@ -61,13 +60,13 @@ html {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-}  
+}
 
 .noto-color-emoji-regular {
     font-family: "Noto Color Emoji", sans-serif;
     font-weight: 400;
     font-style: normal;
-}  
+}
 /* End fonts.google.com */
 
 @font-face {
