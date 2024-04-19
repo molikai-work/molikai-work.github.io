@@ -39,6 +39,18 @@ html {
     overflow-x: hidden
 }
 
+/*
+<uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900
+*/
+
+.noto-sans-tc-regular {
+  font-family: "Noto Sans TC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .noto-color-emoji-regular {
     font-family: "Noto Color Emoji", sans-serif;
     font-weight: 400;
