@@ -39,13 +39,6 @@ html {
     overflow-x: hidden
 }
 
-.noto-sans-sc-regular {
-    font-family: "Noto Sans SC", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
-
 @font-face {
     font-family: "LXGWZhenKai-crop-.hello";
     src: url(/fonts/LXGWZhenKai-crop-.hello.woff2);
