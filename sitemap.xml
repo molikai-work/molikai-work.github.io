@@ -40,6 +40,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://clock.molikai.work</loc>
+    <lastmod>2024-04-21</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://api.molikai.work/api/v1/list/</loc>
     <lastmod>2024-04-20</lastmod>
     <priority>0.4</priority>
