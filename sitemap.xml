@@ -10,8 +10,38 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://c1n.top</loc>
-    <lastmod>2024-04-19</lastmod>
+    <loc>https://color.molikai.work</loc>
+    <lastmod>2024-04-20</lastmod>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uptime.molikai.work</loc>
+    <lastmod>2024-04-20</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://daily-hot.molikai.work</loc>
+    <lastmod>2024-04-20</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://it-tools.molikai.work</loc>
+    <lastmod>2024-04-20</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://web-photoshop.molikai.work</loc>
+    <lastmod>2024-04-20</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://uptime-apiv1.molikai.work</loc>
+    <lastmod>2024-04-20</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://api.molikai.work/api/v1/list/</loc>
+    <lastmod>2024-04-20</lastmod>
+    <priority>0.4</priority>
   </url>
 </urlset>
