@@ -7,91 +7,109 @@
   <url>
     <loc>https://molikai.work</loc>
     <lastmod>2024-04-19</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://color.molikai.work</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://uptime.molikai.work</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://daily-hot.molikai.work</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://it-tools.molikai.work</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://web-photoshop.molikai.work</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://uptime-apiv1.molikai.work</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://clock.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://api.molikai.work/api/v1/list/</loc>
     <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://chat.molikai.work/</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://daily-hot-api.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://daily-paper.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://0210.molikai.work/</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://proxy-chat.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://xn--fiq228c.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://panel.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://file-box.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>http://indexs.molikai.work</loc>
     <lastmod>2024-04-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
 </urlset>
