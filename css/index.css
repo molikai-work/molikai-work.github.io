@@ -626,6 +626,11 @@ ul.skill li .progress div {
     letter-spacing: .1em
 }
 
+.footer p.a {
+    margin-top: 8px;
+    letter-spacing: .1em
+}
+
 .chatbox .line {
     margin: 40px 0
 }
