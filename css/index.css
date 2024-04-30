@@ -600,7 +600,7 @@ ul.skill li .progress div {
 }
 
 .music-player {
-    position: fixed;
+    position: absolute;
     left: 20px;
     bottom: 20px;
     background-color: #4a4a4a;
