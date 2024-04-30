@@ -10,4 +10,4 @@ audio.addEventListener('ended', function() {
         audio.currentTime = 0; // 重置播放时间到开始
         audio.play(); // 重新播放
     }, 3000); // 3秒后重新播放
-});
+}, 3000);
