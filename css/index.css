@@ -603,12 +603,18 @@ ul.skill li .progress div {
     position: fixed;
     left: 20px;
     bottom: 20px;
-    background-color: #ffffff;
+    background-color: #4a4a4a;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #888;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     z-index: 9999;
+}
+
+@media screen and (max-width: 768px) {
+    .music-player {
+        display: none;
+    }
 }
 
 .footer {
