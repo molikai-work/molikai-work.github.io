@@ -1,5 +1,6 @@
 // 获取音频元素
 var audio = document.querySelector('.music-player audio');
+var musicPlayer = document.querySelector('.music-player');
 
 // 设置默认音量为20%
 audio.volume = 0.2;
@@ -22,6 +23,16 @@ audio.addEventListener('ended', function() {
 audio.addEventListener('contextmenu', function(e) {
     e.preventDefault(); // 阻止默认的右键菜单行为
     toggleAudioVisibility(); // 切换音频元素的显示状态
+});
+
+// 单击音频元素外部的.music-player元素会重新显示音频并设置cookie
+musicPlayer.addEventListener('click', function(e) {
+    if (e.target !== audio) {
+        if (audio.style.display === 'none') {
+            audio.style.display = 'block'; // 显示音频元素
+            setCookie('hideAudio', 'false', 365); // 记录Cookie，显示音频元素
+        }
+    }
 });
 
 // 切换音频元素的显示状态
