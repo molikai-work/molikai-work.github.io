@@ -18,8 +18,8 @@ audio.addEventListener('ended', function() {
     }, 4000); // 4秒后重新播放
 }, 4000);
 
-// 鼠标右键点击事件监听
-document.addEventListener('contextmenu', function(e) {
+// 鼠标右键点击事件监听，仅限音频元素
+audio.addEventListener('contextmenu', function(e) {
     e.preventDefault(); // 阻止默认的右键菜单行为
     toggleAudioVisibility(); // 切换音频元素的显示状态
 });
