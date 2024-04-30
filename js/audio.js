@@ -9,8 +9,6 @@ audio.volume = 0.2;
 var hideAudio = getCookie('hideAudio');
 if (hideAudio === 'true') {
     audio.style.display = 'none'; // 隐藏音频元素
-} else {
-    audio.style.display = 'block'; // 显示音频元素
 }
 
 // 当音频播放完毕时，等待4秒后重新播放
