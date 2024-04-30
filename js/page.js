@@ -16,7 +16,7 @@ parcelRequire = function (e, r, t, n) { var i, o = "function" == typeof parcelRe
             "满天的星星等候着大家的到来",
             "*轻快的纯音乐*",
             "*愉悦的哼哼唧唧*",
-            `<a href="https://music.163.com/#/song/2122308127" rel="nofollow noreferrer" target="_blank">云音乐</a>，<br>音乐的力量`,
+            `<a href="https://music.163.com/#/song/1903991886" rel="nofollow noreferrer" target="_blank">云音乐</a>，<br>音乐的力量`,
             "什么，<br>你染上不眠之夜了？！",
             "各位书友好！",
             `请试试墨离的<a href="https://c1n.top/" target="_blank">短网址</a>！`,
