@@ -28,7 +28,7 @@
             display: flex;
             justify-content: center;
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-            webkit-box-reflect: below 1px linear-gradient(transparent, transparent, transparent, transparent, #0005);
+            /* webkit-box-reflect: below 1px linear-gradient(transparent, transparent, transparent, transparent, #0005); */
         }
 
         .cloud {
@@ -42,7 +42,6 @@
         }
 
         @keyframes animateCloud {
-
             0%,
             94%,
             100% {
@@ -82,6 +81,7 @@
             background: #05e2eb;
             transform-origin: bottom;
             animation: animate 2s linear forwards;
+            opacity:0.8;
         }
 
         @keyframes animate {
