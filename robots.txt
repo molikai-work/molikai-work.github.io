@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: 
-Sitemap: https://molikai.work/sitemap.xml
+Disallow: /css/
+Disallow: /fonts/
 Disallow: /images/
-Disallow: /cdn-cgi/
+Disallow: /js/
+
+Sitemap: https://molikai.work/sitemap.xml
